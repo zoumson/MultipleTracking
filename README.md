@@ -186,9 +186,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Adama Zouma - <!-- [@your_twitter](https://twitter.com/your_username) -->- stargue49@gmail.com
 
-Project Link: [https://github.com/zoumson/
-MultipleTracking](https://github.com/zoumson/
-MultipleTracking.git)
+Project Link: [https://github.com/zoumson/MultipleTracking](https://github.com/zoumson/MultipleTracking.git)
 
 
 
